@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoBan.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoHoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/enity/ThucUong.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoThucUong.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoChiTietHoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/enity/ChiTietHoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/enity/HoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/service/SVChitiethoadon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/enity/GiaTien.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoNguoiDung.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/service/SVHoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FormDangNhap.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FromMenu.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FormQuanLyBan.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FromQuanLiBan.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FormHoaDon.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/dao/DaoGia.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/enity/Ban.java</file>
+            <file>file:/D:/JAVASWING/QuanLyBanHang/JavaApplication10/src/quanlybanhang/form/FromThucUong.java</file>
+        </group>
+    </open-files>
+</project-private>
